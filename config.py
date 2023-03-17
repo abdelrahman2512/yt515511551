@@ -9,6 +9,6 @@
 import os
 
 class Config(object):
-    API_ID = 17983098
-    API_HASH = "ee28199396e0925f1f44d945ac174f64"
-    BOT_TOKEN = "5307529157:AAGXcAiOg4KY2mXQdkO44axulFNUdNX0ugg"
+    API_ID = 20993785
+    API_HASH = "a5378e174b86b9fc3cf1ef284e2767b4"
+    BOT_TOKEN = "6168506976:AAHaUgTafkURMV_Sil_62e0tId8M8QMCxqk"
